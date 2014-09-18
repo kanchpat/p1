@@ -1,22 +1,23 @@
-Setup Environments and Refresh HTML
-Live URL
+## Setup Environments and Refresh HTML
 
-http://p1.kanch.me
+## Live URL
 
-Description
+Visit [my link](http://p1.kanch.me)
 
-Refresh HTML/CSS
-Use GitHub Codebase
-Deploy in Digital Ocean
-Create a name domain
+## Description
 
-Demo
+1. Refresh HTML/CSS
+2. Use GitHub Codebase
+3. Deploy in Digital Ocean
+4. Create a name domain
 
-Not Applicable
+## Demo
 
-Details for teaching team
+ Not Applicable
 
-No login required.
+## Details for teaching team
 
-Outside code
-PureCSS - http://purecss.io
+ No login required.
+
+##Outside code
+PureCSS - [Pure CSS Official](http://purecss.io)
